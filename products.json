@@ -2,105 +2,105 @@
   {
     "id": 1,
     "title": "Wireless Headphones",
-    "image": "https://github.com/venkatkrishna133/DataCetere/blob/main/Datas%20Img/Wireless%20Headphones.jpeg",
+    "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Wireless%20Headphones.jpeg",
     "price": 59.99,
     "category": "Electronics"
   },
   {
     "id": 2,
     "title": "Running Shoes",
-    "image": "https://github.com/venkatkrishna133/DataCetere/blob/main/Datas%20Img/Running%20Shoes.jpeg",
+    "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Running%20Shoes.jpeg",
     "price": 89.99,
     "category": "Footwear"
   },
   {
     "id": 3,
     "title": "Smartwatch",
-    "image": "https://github.com/venkatkrishna133/DataCetere/blob/main/Datas%20Img/Smartwatch.jpeg",
+    "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Smartwatch.jpeg",
     "price": 129.99,
     "category": "Wearables"
   },
   {
     "id": 4,
     "title": "Coffee Maker",
-    "image": "https://github.com/venkatkrishna133/DataCetere/blob/main/Datas%20Img/Coffee%20Maker.jpeg",
+    "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Coffee%20Maker.jpeg",
     "price": 45.50,
     "category": "Home Appliances"
   },
   {
     "id": 5,
     "title": "Desk Lamp",
-    "image": "https://github.com/venkatkrishna133/DataCetere/blob/main/Datas%20Img/Desk%20Lamp.jpeg",
+    "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Desk%20Lamp.jpeg",
     "price": 25.00,
     "category": "Home Decor"
   },
   {
     "id": 6,
     "title": "Bluetooth Speaker",
-    "image": "https://github.com/venkatkrishna133/DataCetere/blob/main/Datas%20Img/Bluetooth%20Speaker.jpeg",
+    "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Bluetooth%20Speaker.jpeg",
     "price": 75.99,
     "category": "Electronics"
   },
   {
     "id": 7,
     "title": "Yoga Mat",
-    "image": "https://github.com/venkatkrishna133/DataCetere/blob/main/Datas%20Img/Yoga%20Mat.jpeg",
+    "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Yoga%20Mat.jpeg",
     "price": 20.00,
     "category": "Fitness"
   },
   {
     "id": 8,
     "title": "Backpack",
-    "image": "https://github.com/venkatkrishna133/DataCetere/blob/main/Datas%20Img/Backpack.jpeg",
+    "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Backpack.jpeg",
     "price": 39.99,
     "category": "Accessories"
   },
   {
     "id": 9,
     "title": "Graphic T-Shirt",
-    "image": "https://github.com/venkatkrishna133/DataCetere/blob/main/Datas%20Img/Graphic%20T-Shirt.jpeg",
+    "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Graphic%20T-Shirt.jpeg",
     "price": 15.00,
     "category": "Apparel"
   },
   {
     "id": 10,
     "title": "Water Bottle",
-    "image": "https://github.com/venkatkrishna133/DataCetere/blob/main/Datas%20Img/Water%20Bottle.jpeg",
+    "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Water%20Bottle.jpeg",
     "price": 10.00,
     "category": "Fitness"
   },
   {
     "id": 11,
     "title": "Gaming Mouse",
-    "image": "https://github.com/venkatkrishna133/DataCetere/blob/main/Datas%20Img/Gaming%20Mouse.jpeg",
+    "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Gaming%20Mouse.jpeg",
     "price": 29.99,
     "category": "Electronics"
   },
   {
     "id": 12,
     "title": "Cookware Set",
-    "image": "https://github.com/venkatkrishna133/DataCetere/blob/main/Datas%20Img/Cookware%20Set.jpeg",
+    "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Cookware%20Set.jpeg",
     "price": 79.99,
     "category": "Kitchen"
   },
   {
     "id": 13,
     "title": "Sunglasses",
-    "image": "https://github.com/venkatkrishna133/DataCetere/blob/main/Datas%20Img/Sunglasses.jpeg",
+    "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Sunglasses.jpeg",
     "price": 19.99,
     "category": "Accessories"
   },
   {
     "id": 14,
     "title": "Notebook",
-    "image": "https://github.com/venkatkrishna133/DataCetere/blob/main/Datas%20Img/Notebook.jpeg",
+    "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Notebook.jpeg",
     "price": 5.00,
     "category": "Stationery"
   },
   {
     "id": 15,
     "title": "Electric Kettle",
-    "image": "https://github.com/venkatkrishna133/DataCetere/blob/main/Datas%20Img/Electric%20Kettle.jpeg",
+    "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Electric%20Kettle.jpeg",
     "price": 30.99,
     "category": "Home Appliances"
   }
