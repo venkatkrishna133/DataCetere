@@ -3,6 +3,7 @@
     "id": 1,
     "title": "Wireless Headphones",
     "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Wireless%20Headphones.jpeg",
+    "description": "Experience immersive sound with these high-quality wireless headphones, designed for comfort and superior audio performance.",
     "price": 59.99,
     "category": "Electronics"
   },
@@ -10,6 +11,7 @@
     "id": 2,
     "title": "Running Shoes",
     "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Running%20Shoes.jpeg",
+    "description": "Lightweight and comfortable running shoes that provide excellent support for both casual and long-distance runners.",
     "price": 89.99,
     "category": "Footwear"
   },
@@ -17,6 +19,7 @@
     "id": 3,
     "title": "Smartwatch",
     "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Smartwatch.jpeg",
+    "description": "Stay connected and track your health with this stylish smartwatch that combines modern technology and a sleek design.",
     "price": 129.99,
     "category": "Wearables"
   },
@@ -24,6 +27,7 @@
     "id": 4,
     "title": "Coffee Maker",
     "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Coffee%20Maker.jpeg",
+    "description": "Brew your perfect cup of coffee with this easy-to-use coffee maker, ideal for any coffee lover.",
     "price": 45.50,
     "category": "Home Appliances"
   },
@@ -31,6 +35,7 @@
     "id": 5,
     "title": "Desk Lamp",
     "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Desk%20Lamp.jpeg",
+    "description": "Illuminate your workspace with this adjustable desk lamp, offering optimal lighting for reading or working.",
     "price": 25.00,
     "category": "Home Decor"
   },
@@ -38,6 +43,7 @@
     "id": 6,
     "title": "Bluetooth Speaker",
     "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Bluetooth%20Speaker.jpeg",
+    "description": "Portable and powerful Bluetooth speaker that delivers crisp sound, perfect for parties or outdoor activities.",
     "price": 75.99,
     "category": "Electronics"
   },
@@ -45,6 +51,7 @@
     "id": 7,
     "title": "Yoga Mat",
     "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Yoga%20Mat.jpeg",
+    "description": "Comfortable and non-slip yoga mat, providing the perfect surface for your fitness and yoga routines.",
     "price": 20.00,
     "category": "Fitness"
   },
@@ -52,6 +59,7 @@
     "id": 8,
     "title": "Backpack",
     "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Backpack.jpeg",
+    "description": "A spacious and durable backpack perfect for work, school, or travel, with ample storage compartments.",
     "price": 39.99,
     "category": "Accessories"
   },
@@ -59,6 +67,7 @@
     "id": 9,
     "title": "Graphic T-Shirt",
     "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Graphic%20T-Shirt.jpeg",
+    "description": "A stylish graphic t-shirt with a bold design, perfect for casual outings or layering with jackets.",
     "price": 15.00,
     "category": "Apparel"
   },
@@ -66,6 +75,7 @@
     "id": 10,
     "title": "Water Bottle",
     "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Water%20Bottle.jpeg",
+    "description": "Stay hydrated on the go with this eco-friendly and durable water bottle, designed for easy carrying.",
     "price": 10.00,
     "category": "Fitness"
   },
@@ -73,6 +83,7 @@
     "id": 11,
     "title": "Gaming Mouse",
     "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Gaming%20Mouse.jpeg",
+    "description": "A high-performance gaming mouse with customizable buttons and precision tracking for competitive gameplay.",
     "price": 29.99,
     "category": "Electronics"
   },
@@ -80,6 +91,7 @@
     "id": 12,
     "title": "Cookware Set",
     "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Cookware%20Set.jpeg",
+    "description": "This cookware set includes everything you need to prepare delicious meals, made from durable materials.",
     "price": 79.99,
     "category": "Kitchen"
   },
@@ -87,6 +99,7 @@
     "id": 13,
     "title": "Sunglasses",
     "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Sunglasses.jpeg",
+    "description": "Stylish and UV-protective sunglasses, perfect for any sunny day, offering both fashion and function.",
     "price": 19.99,
     "category": "Accessories"
   },
@@ -94,6 +107,7 @@
     "id": 14,
     "title": "Notebook",
     "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Notebook.jpeg",
+    "description": "A simple and elegant notebook for jotting down notes, sketches, or ideas, perfect for any student or professional.",
     "price": 5.00,
     "category": "Stationery"
   },
@@ -101,6 +115,7 @@
     "id": 15,
     "title": "Electric Kettle",
     "image": "https://raw.githubusercontent.com/Venkatkrishna133/DataCetere/main/Datas%20Img/Electric%20Kettle.jpeg",
+    "description": "Quickly boil water for tea, coffee, or other beverages with this efficient and stylish electric kettle.",
     "price": 30.99,
     "category": "Home Appliances"
   }
